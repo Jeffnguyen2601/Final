@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<img src="RMIT_banner.jpg" alt="RMIT Banner">
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>RMIT University</h1>
+<p>One of Australia’s original educational institutions founded in 1887, RMIT University now enrols over 96,000 students each year, including more than 19,000 at postgraduate level. </p>
+<p> our rankings.</p>
+<ul>
+  <li>5-Star QS ranking for excellence in higher education (QS World University Rankings 2015-2021)</li>
+  <li>206th globally and 14th highest ranked university in Australia (QS World University Rankings 2022)</li>
+  <li>3rd globally in the 2021 Times Higher Education Impact Rankings.</li>
+  <li>8th in the world and 5th in Australia among universities less than 50 years old (QS Top 50 Under 50 index 2021)</li>
+</ul>  
+<h1>Our Locations</h1>
+   <li>Australia</li>
+	<ul style="list-style-type:circle;">
+	<li>Melbourne city campus</li>
+	<li>Bundoora campus</li>
+	<li>Brunswick campus</li>
+	</ul>
+   <li>Vietnam</li>
+	<ul style="list-style-type:circle;">
+	<li>Saigon South campus</li>
+	<li>Hanoi campus</li>
+	</ul>
+   <li>Spain</li>
+	<ul style="list-style-type:circle;">
+	<li>Barcelona campus</li>
+	</ul>
+<h1>Our Students</h1>
+<img src="RMIT_student.jpg" alt="What RMIT student will you be? Are you a high achiever motivated by grades or an explorer who loves adventure?
+" width="460" height="345">
+<a href="http://www.rmit.edu.au/">Find out more</a>
+<h1>Want to know more about RMIT? Join our next Information Sessions</h1>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+
+<table style="width:200%">
+  <tr >
+    <th style="background-color:rgba(230, 30, 42)">Time</th>
+    <th style="background-color:rgba(230, 30, 42)">Location</th>
+    <th style="background-color:rgba(230, 30, 42)">Address</th>
+  </tr>
+  <tr >
+    <td style="background-color:rgba(250, 200, 0)"> 8:30 - 10:00 January 16, 2023</td>
+    <td style="background-color:rgba(250, 200, 0)">Saigon South Campus, Room 2.4.02</td>
+    <td style="background-color:rgba(250, 200, 0)">702 Nguyen Van Linh, District 7, Ho Chi Minh City</td>
+  </tr>
+  <tr>
+    <td style="background-color:rgba(250, 200, 0)">8:30 - 10:00 January 16, 2023</td>
+    <td style="background-color:rgba(250, 200, 0)">Hanoi campus, Room 1.10.001</td>
+    <td style="background-color:rgba(250, 200, 0)">Handi Resco Building, 521 Kim Ma, Ba Dinh District, Hanoi</td>
+  </tr>
+</table>
+<img src="RMIT_logo.jpg" alt="RMIT logo" width="460" height="345">
+
+</body>
+</html>
